@@ -1,0 +1,4 @@
+.teste {
+  color: red;
+  animation: rotating 2s cubic-bezier(0.87, 0.11, 0.13, 1.26) infinite;
+}
